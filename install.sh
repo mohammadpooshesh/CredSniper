@@ -13,7 +13,7 @@ final="gmail.com"
 use_ssl="Y"
 use_twofactor='Y'
 twofactor='--twofactor'
-host_name="gmail_credsniper.silverf0x00.com"
+host_name="gmailcredsniper.silverf0x00.com"
 ssl="--ssl"
 port=443
 
